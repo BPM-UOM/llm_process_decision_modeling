@@ -1,1 +1,12 @@
-The leave request process begins when an employee logs into the company’s portal to submit a leave request. Upon opening the request form, the employee selects the type of leave, specifies the duration, and submits the request. The system then determines the appropriate approver. For sick leave of three days or less, approval is required from the employee’s direct manager. If the sick leave exceeds three days, approval must be obtained from the HR Department. For annual leave, if the requested duration is five days or less, the direct manager must approve it. If the leave exceeds five days, approval must be granted by the department head. For maternity or paternity leave, regardless of the duration, the request must be reviewed and approved by the department head. For unpaid leave of ten days or less, approval is required from the direct manager. If the unpaid leave request exceeds ten days, approval must be granted by the HR Department. In all cases, if the request is approved, the system sends an automatic approval notification, and the system updates the employee's calendar with the approved leave. If the request is rejected, the employee is notified along with the reason for the rejection.
+The leave request process begins when an employee logs into the company’s portal to submit a leave request. 
+Upon opening the request form, the employee selects the type of leave, specifies the duration, and submits the request. 
+The system then determines the appropriate approver. 
+For sick leave of three days or less, approval is required from the employee’s direct manager. 
+If the sick leave exceeds three days, approval must be obtained from the HR Department. 
+For annual leave, if the requested duration is five days or less, the direct manager must approve it. 
+If the leave exceeds five days, approval must be granted by the department head. 
+For maternity or paternity leave, regardless of the duration, the request must be reviewed and approved by the department head. 
+For unpaid leave of ten days or less, approval is required from the direct manager. 
+If the unpaid leave request exceeds ten days, approval must be granted by the HR Department. 
+In all cases, if the request is approved, the system sends an automatic approval notification, and the system updates the employee's calendar with the approved leave.
+If the request is rejected, the employee is notified along with the reason for the rejection.
