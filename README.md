@@ -1,2 +1,2 @@
-# llm_bpmn
-Beyond Gateways: Evaluating LLM capabilities to decouple decision logic from business process flows
+# Beyond Gateways: Evaluating LLM capabilities to decouple decision logic from business process flows
+This is a repository ...
